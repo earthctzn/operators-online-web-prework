@@ -9,9 +9,9 @@ end
 
 
 
-def not_safe?(speed)
+#def not_safe?(speed)
 	speed ==  ? true : false
-end
+#end
 	
 
 
